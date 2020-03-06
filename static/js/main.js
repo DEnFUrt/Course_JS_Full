@@ -4,6 +4,7 @@ const btnStart = document.querySelector('#start');
 
 const resultTable = document.querySelector('.result-table'),
     budgetValue = resultTable.querySelector('.budget-value'),
+    daybudgetValue = resultTable.querySelector('.daybudget-value'),
     levelValue = resultTable.querySelector('.level-value'),
     expensesValue = resultTable.querySelector('.expenses-value'),
     optionalexpensesValue = resultTable.querySelector('.optionalexpenses-value'),
